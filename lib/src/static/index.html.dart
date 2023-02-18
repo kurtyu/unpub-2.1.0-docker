@@ -1,7 +1,7 @@
 const content = """<!DOCTYPE html>
 <html>
   <head>
-    <title>App Packages</title>
+    <title>積木系統</title>
     <meta charset="utf-8" />
     <base href="/" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -1701,7 +1701,7 @@ const content = """<!DOCTYPE html>
     <script defer src="main.dart.js"></script>
   </head>
   <body>
-    <my-app>Loading...</my-app>
+    <my-app>載入中...</my-app>
   </body>
 </html>
 """;
