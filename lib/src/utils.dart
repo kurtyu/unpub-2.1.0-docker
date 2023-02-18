@@ -19,9 +19,10 @@ Map<String, dynamic>? loadYamlAsMap(dynamic value) {
 
 List<String> getPackageTags(Map<String, dynamic> pubspec) {
   // TODO: web and other tags
-  if (pubspec['flutter'] != null) {
-    return ['flutter'];
-  } else {
-    return ['flutter', 'web', 'other'];
-  }
+  // if (pubspec['flutter'] != null) {
+  //   return ['flutter'];
+  // } else {
+  //   return ['flutter', 'web', 'other'];
+  // }
+  return ['iOS', 'Android'];
 }
