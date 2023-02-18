@@ -24,5 +24,5 @@ List<String> getPackageTags(Map<String, dynamic> pubspec) {
   // } else {
   //   return ['flutter', 'web', 'other'];
   // }
-  return ['iOS', 'Android'];
+  return ['ios', 'android'];
 }
