@@ -14569,9 +14569,8 @@ q=r.c
 r=r.d
 r=G.bW(t.G.a(q.R(C.f,r)),t.f.a(q.R(C.i,r)),null,a2.bt)
 a2.dy=new G.bf(r)
-T.X(a2.bt,"依賴")
+T.X(a2.bt,"查看套件有依賴 ")
 a2.bt.appendChild(a2.f.b)
-a2.bt.appendChild("的套件")
 r=t.L
 J.eb(a2.y1,b1,a2.a4(a2.gkk(),r,r))
 J.eb(a2.y2,b1,a2.a4(a2.gkm(),r,r))
