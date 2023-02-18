@@ -14086,7 +14086,7 @@ Q.bm.prototype={
 cF:function(a){var s=0,r=P.aN(t.z),q,p=this,o,n
 var \$async\$cF=P.aO(function(b,c){if(b===1)return P.aK(c,r)
 while(true)switch(s){case 0:n=p.a
-if(n.b===""){q=C.ac.lE(window,"keyword empty")
+if(n.b===""){q=C.ac.lE(window,"關鍵字是空值")
 s=1
 break}o=t.X
 s=3
@@ -14885,7 +14885,7 @@ p.t(s,"not-exists")
 p.H(s)
 r=T.aE(o,s)
 p.H(r)
-T.X(r,"This is not a private package, click link below to view it:")
+T.X(r,"這不是私有套件，點擊下面的鏈接查看官方公開套件：")
 q=t.E.a(T.x(o,s,"a"))
 p.d=q
 T.an(q,"rel","nofollow")
@@ -15191,7 +15191,7 @@ n.db=r.a(T.x(m,k,"a"))
 r=G.bW(q.a(s.ga6().R(C.f,s.gab())),p.a(s.ga6().R(C.i,s.gab())),null,n.db)
 n.r=new G.bf(r)
 n.db.appendChild(n.d.b)
-T.X(k," \\u2022 Updated: ")
+T.X(k," \\u2022 更新時間: ")
 T.ik(m,k).appendChild(n.e.b)
 T.X(k," ")
 k=n.x=new V.aT(14,n,T.bx(k))
