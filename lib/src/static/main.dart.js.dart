@@ -14266,7 +14266,7 @@ T.X(p," ")
 o=o.a(T.x(q,p,"a"))
 r.t(o,"link github_issue")
 r.H(o)
-T.X(o,"2023")
+T.X(o,"BLOCKS 2023")
 r.a5(p)}}
 V.mk.prototype={
 T:function(){var s,r,q=this,p=new V.hk(E.qs(q,0,3)),o=\$.vK
@@ -15090,7 +15090,7 @@ V.mw.prototype={
 T:function(){var s,r,q,p,o,n=this,m=document,l=m.createElement("main"),k=t.Q,j=k.a(T.x(m,l,"p"))
 n.t(j,"package-count")
 T.ik(m,j).appendChild(n.b.b)
-T.X(j," results")
+T.X(j," 搜尋結果")
 j=k.a(T.x(m,l,"ul"))
 n.t(j,"package-list")
 j=n.c=new V.aT(6,n,T.bx(j))
